@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.content {
+    color: rgb(0, 0, 0);
+    background-color: rgb(242, 170, 169);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.content.alt {
+    font-size: 24px;
+}
+
+#element-two {
+    color: rgb(0, 0, 245);
+    font-size: 36px;
+}
+
+#element-four {
+    color: rgb(0, 0, 0);
+    background-color: rgb(161, 252, 143);
+    font-size: 24px;
+    font-weight: 700;
+}
